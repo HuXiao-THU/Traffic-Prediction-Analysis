@@ -1,0 +1,2 @@
+1. basic models - ARIMA, KNN
+2. spatiotemporal methods - ST-KNN
